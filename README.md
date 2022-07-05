@@ -10,5 +10,7 @@
 ### RU
 **Краулер `луковой` сети **
 
+### How to use?
+https://telegra.ph/Crawler-06-04
 
 ![](https://github.com/Apanazar/stuprum/blob/master/crawler1.png)
