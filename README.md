@@ -13,4 +13,7 @@
 ### How to use?
 https://telegra.ph/Crawler-06-04
 
+### Community
+![Горизонт событий](https://t.me/+GluQGGiKV95mZGYy)
+
 ![](https://github.com/Apanazar/stuprum/blob/master/crawler1.png)
