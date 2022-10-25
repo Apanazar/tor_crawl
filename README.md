@@ -4,12 +4,13 @@
 
 **`Si mundus vos odit, scitote quia me priorem vobis odio habuit.`** 
 
-### EN
+## EN
 **`Onion` Web Crawler**
+> From the project: [ꜱᴜʀ.ɴᴇᴛꜱᴛᴀʟᴋɪɴɢ](https://t.me/sur_NET)
 
-### RUS
-
+## RUS
 **Краулер `луковой` сети**
+> От проекта: [ꜱᴜʀ.ɴᴇᴛꜱᴛᴀʟᴋɪɴɢ](https://t.me/sur_NET)
 
 ### How to use?
 https://telegra.ph/Crawler-06-04
